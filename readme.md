@@ -58,23 +58,12 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-mehrotra&show_icons=true&theme=tokyonight&count_private=true" width="45%" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harsh-mehrotra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-mehrotra&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-mehrotra-06288b250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
