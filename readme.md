@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps | Cloud | Automation Enthusiast from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="DevOps Engineer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="DevOps Engineer" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🛠️ Skilled in designing **highly available, scalable infrastructures**.
 - 🚀 Currently exploring **Advanced Kubernetes**, **Serverless**, and **IaC (Infrastructure as Code)**.
 - 🎯 Focused on building **reliable**, **resilient**, and **automated** systems.
-- 📬 Reach me: **harshmehrotraji@gmail.com**
+- 📬 Reach me at: **harshmehrotraji@gmail.com**
 
 ---
 
@@ -62,12 +62,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-mehrotra&show_icons=true&theme=tokyonight&count_private=true" width="45%" alt="GitHub Stats" />
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harsh-mehrotra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-mehrotra&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
 </p>
 
+---
 
 ## 🌐 Connect with Me
 
@@ -80,6 +82,3 @@
 ---
 
 <h3 align="center">⚡ Automate Everything | Think Cloud First | Stay Resilient ⚡</h3>
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsh-mehrotra)
-
