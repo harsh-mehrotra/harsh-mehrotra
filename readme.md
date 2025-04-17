@@ -41,13 +41,19 @@
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://grafana.com/" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.shellscript.sh/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="shell" width="40" height="40"/> </a>
-  <a href="https://www.hostinger.com/" target="_blank"> <img src="https://seeklogo.com/images/H/hostinger-logo-37C86D3D29-seeklogo.com.png" alt="hostinger" width="40" height="40"/> </a>
+  <a href="https://www.hostinger.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hostinger_logo.png" alt="hostinger" width="90" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -58,7 +64,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-mehrotra&show_icons=true&locale=en" alt="harsh-mehrotra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-mehrotra&" alt="harsh-mehrotra" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-mehrotra&theme=react" alt="harsh-mehrotra" />
+</p>
+
+
 
 ---
 
