@@ -62,14 +62,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-mehrotra&show_icons=true&theme=tokyonight&count_private=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-mehrotra&theme=tokyonight" width="45%" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-mehrotra&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 
@@ -82,3 +80,6 @@
 ---
 
 <h3 align="center">⚡ Automate Everything | Think Cloud First | Stay Resilient ⚡</h3>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsh-mehrotra)
+
